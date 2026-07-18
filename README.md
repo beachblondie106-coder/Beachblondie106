@@ -92,8 +92,8 @@ I am open to remote, hybrid, and relocation opportunities.
 
 ## Connect With Me
 
-- [LinkedIn](PASTE_LINKEDIN_LINK_HERE)
-- [Download My Résumé](PASTE_RESUME_LINK_HERE)
+- [LinkedIn](linkedin.com/in/lisaphillips106)
+- [Download My Résumé](Lisa_Phillips__Resume.pdf)
 - [View My GitHub Projects](https://github.com/Beachblondie106)
 
 ---
