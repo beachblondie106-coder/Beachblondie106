@@ -60,7 +60,7 @@ Customer segmentation project using exploratory data analysis and K-means cluste
 
 **Tools:** Python, pandas, scikit-learn, Matplotlib
 
-[View Project](PASTE_PROJECT_LINK_HERE)
+[View Project](Using ML to Improve Customer Purchasing Decisions.pptx)
 
 ---
 
