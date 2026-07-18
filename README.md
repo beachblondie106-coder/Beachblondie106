@@ -50,7 +50,7 @@ Analysis of Medicare provider utilization and payment data to identify cost tren
 
 **Tools:** Python, pandas, SQL, Excel, Tableau
 
-[View Project](Medicare Claims Utilization & Cost Analytics.pptx)
+[View Project](./Medicare%20Claims%20Utilization%20%26%20Cost%20Analytics.pptx)
 
 ---
 
@@ -60,7 +60,7 @@ Customer segmentation project using exploratory data analysis and K-means cluste
 
 **Tools:** Python, pandas, scikit-learn, Matplotlib
 
-[View Project](Using ML to Improve Customer Purchasing Decisions.pptx)
+[View Project](./Using%20ML%20to%20Improve%20Customer%20Purchasing%20Decisions.pptx)
 
 ---
 
